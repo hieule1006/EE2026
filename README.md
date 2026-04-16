@@ -117,8 +117,8 @@
 
 ## Team & Contributions
 
-| Member | Student ID | Responsibilities |
-|---|---|---|
+| Member | Responsibilities |
+|---|---|
 | **Ng Xi** | Graphics logic, VGA screen design, block rendering, game-over screen, priority encoder, 7-segment reroll display |
 | **Le Minh Hieu** | Collision detection, 200-bit grid memory, line clearing & block shifting, boundary enforcement |
 | **Than The Cong** | 4-bit LFSR, OLED score display, background music, grid memory & collision support |
