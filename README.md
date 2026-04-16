@@ -151,4 +151,4 @@
 
 ---
 
-*Team S6_12 — EE2026 / CG2028 FPGA Project*
+*Team S6_12 — EE2026 FPGA Project*
