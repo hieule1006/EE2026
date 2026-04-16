@@ -119,10 +119,10 @@
 
 | Member | Student ID | Responsibilities |
 |---|---|---|
-| **Ng Xi** | A0312233X | Graphics logic, VGA screen design, block rendering, game-over screen, priority encoder, 7-segment reroll display |
-| **Le Minh Hieu** | A0305719B | Collision detection, 200-bit grid memory, line clearing & block shifting, boundary enforcement |
-| **Than The Cong** | A0325669N | 4-bit LFSR, OLED score display, background music, grid memory & collision support |
-| **Renu Deepa Laxmi** | A0312230A | Block spawning & fall logic, button debouncing, boundary checks, speed-based LED indicators, VGA rendering support |
+| **Ng Xi** | Graphics logic, VGA screen design, block rendering, game-over screen, priority encoder, 7-segment reroll display |
+| **Le Minh Hieu** | Collision detection, 200-bit grid memory, line clearing & block shifting, boundary enforcement |
+| **Than The Cong** | 4-bit LFSR, OLED score display, background music, grid memory & collision support |
+| **Renu Deepa Laxmi** | Block spawning & fall logic, button debouncing, boundary checks, speed-based LED indicators, VGA rendering support |
 
 ---
 
